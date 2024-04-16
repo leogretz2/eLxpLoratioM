@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gemini-test-project-419916",
+  "private_key_id": "2d6638af55cf0d36dbb2e3af993d18331ed8829d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCt5BzGYCuJoyGO\n1cy0yzSU3mu/4ExrwbsV7qXc1aG88/4qgJpiZvwUUk5kVLeKFhvGjFDoFxoH+ox5\nf5KUJ5Kj1xHLlC5u7gd87dYuj/r3AUXDpNOx7DslbW8z3kn907KrW3jcZyrQ2v4v\nZNnqc/TwwFj3NDrSRWmoiLljoeh2VoqAHigLtS3vIs9JZV4bYSIQSQv96VnVt4YT\n+/DtVEyT7U49//4R9iSbZfWTaqpu+OJ8a5UEbdrObFM0/cXe70SgZlKyiXSSB7Fd\nbguOPvBCrXXtmAPRGJbQafLLK8Ldk5JznYc5pxaFoJU9skOWVeJFhwJgl9VOqB8H\n+ynG7Ih7AgMBAAECggEABB+rklrCfY5ETqEBrJdAZSK3LG2IcmpoN4zEGy4ScAAw\nmq0XvCtUDAlS+ZchY8wYFt0fUrmwMNiUuebiwNJawbmTyZ+h0ENNzdJ4E1JFHH7H\nuuwu5wJtTqW/OYbVJgiorTP19EgatamT1eeO3BFUPDIGNL/k1eAL3DwjJVqNauJN\naUzXvw3puB9WNt46E1zv67WHXZgF77S43mBUly3WLTX6WQG8i3PoBJZQKZoPgQVK\nn6vnUKL0EavYB2VIYfw+VXTuqz60XeDDkZufNiUiTz2zDtcLgYi6i6B00cMcbKFq\nC8lgz3V9gVIgO79nv18o7MyKiIGiENjGvw8jlH4leQKBgQDwVfuPAql+m3Mrjw6g\n8eQRn8Rg1bXCOa9E4ngyytdkOjkDOH2LZ+fjrL6lI/5ndm9Xu3YMse0x4P///m7a\nUlmtAWfwImsf5jPc0c42OBhJOSLCF7G4wwt8GB62+bQC+XSCNHe6MTimovgr34pz\nV+2qpBnGcg4TLwCPMvgL/K+1iQKBgQC5OX6V3iM/3I7VIxwGqqc2fiu1UmpNHnaT\niVTpyJdQVbm/H4VuiueMtC3LDgKTx4MmK/d74SHNlY9nkkFRvYMscE6cE09mAgk8\nOrdV4f63OkwIYnFCM7SjL36wiksbi2toqtvMgr2CAhHurF+8dZphT6ZII/1E28oA\nCFA8khYQ4wKBgBTPrT/eACVZeqib861WJOStzAiCmQGfkyDI55WmYO5p6EPyIVTw\nA3GApOWR71awN8YGEpvY0GxQSnq1Yo3/MYq8o2503IffnEAT3uJtCxVUIEFkYdxY\n72aohAheKQtU5JTdzDxQRNKRLCJIcim4xHjRSvYXLEbW/BpqVHZdRC3ZAoGANBXL\n197gcKvX6m12CxXf8X3nUpS7WbZQR8qdeyQyEKAanHkDr4MV+8YK/oeRB/dZlNlW\nPZqgQ8xjyA8jmRW+ljd6k38Gm7vE1w/30Am9885L5Suxh5k8mYrYiFJLLpK1AHjT\nWB4HplBotIH6Zed4IxcfvjeIl91qXzn3PiEiXVsCgYEA8Aj2UZdXYaq190Mr3S2X\nhPA/uFhDYIgsyeXjGVsBOStALnKVgVcRYTnDwNbksQqA8A36w5BgI2MgUNgZlQ1r\nVCs5X/che745f7SCMdgXnHKPxwKLojFtIR/n2ZpgF+IR3kjhyLMw5ATO5rLuLiIQ\nfMOaGbCtfYo8qjGL8BV61V0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-access@gemini-test-project-419916.iam.gserviceaccount.com",
+  "client_id": "106653333204624449606",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-access%40gemini-test-project-419916.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
